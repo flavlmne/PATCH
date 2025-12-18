@@ -1,6 +1,4 @@
-# Application Web Sécurisée (Patch IPSSI)
-
-Ce projet est une application web conteneurisée et sécurisée, construite avec une architecture en couches. Elle démontre les bonnes pratiques de sécurité modernes, l'utilisation d'un ORM et un déploiement prêt pour la production.
+# Application Web Sécurisée
 
 ## 🚀 Stack Technique
 
